@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Lockday10App: App {
+struct LockAnimationSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
